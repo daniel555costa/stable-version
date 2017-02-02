@@ -1,0 +1,3 @@
+include ':dbutil', ':app';//, ':rnet';
+project(':dbutil').projectDir = new File('../DBUtilAndroid/dbutil');
+//project(':rnet').projectDir = new File('/media/xdata/Data/Sync/data3@projectos/ClientLocal/NetBeans/GGviaio Cambio')

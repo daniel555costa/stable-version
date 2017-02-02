@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="404b94ab-46ae-4deb-875f-6c7ffb9f991e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="datamining@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="credial@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="console.sql" pinned="false" current-in-tab="true">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e812c86e-2057-421c-8cf2-2a59d3f778fd/console.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="datamining.public.odor" pinned="false" current-in-tab="false">
+        <entry file="dbDummy://dbtable:/2027e7bb/e812c86e-2057-421c-8cf2-2a59d3f778fd/datamining.public.odor">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="console_2.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/42a977ed-938e-47b2-b5a0-203109fc2de6/console_2.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_upload_alunos.(varchar,numeric,numeric,numeric).sql" pinned="false" current-in-tab="false">
+        <entry file="dbSrc:///2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/database/academico/schema/academico/routine/_upload_alunos.(varchar,numeric,numeric,numeric).sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_populate_studente.(varchar).sql" pinned="false" current-in-tab="false">
+        <entry file="dbSrc:///2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/database/academico/schema/academico/routine/_populate_studente.(varchar).sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="29" column="30" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="29" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="funct_load_aluno.(json).sql" pinned="false" current-in-tab="false">
+        <entry file="dbSrc:///2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/database/academico/schema/academico/routine/funct_load_aluno.(json).sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="funct_reg_vaga.(numeric,numeric,numeric,date,date,numeric).sql" pinned="false" current-in-tab="false">
+        <entry file="dbSrc:///2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/database/academico/schema/academico/routine/funct_reg_vaga.(numeric,numeric,numeric,date,date,numeric).sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="academico.academico.menu" pinned="false" current-in-tab="false">
+        <entry file="dbDummy://dbtable:/2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/academico.academico.menu">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="funct_load_menuser.(integer,varchar).sql" pinned="false" current-in-tab="false">
+        <entry file="dbSrc:///2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/database/academico/schema/academico/routine/funct_load_menuser.(integer,varchar).sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="738">
+              <caret line="41" column="22" lean-forward="false" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>chequempresa</find>
+      <find>resValidator</find>
+      <find>banco</find>
+      <find>ESTAOD</find>
+      <find>&quot;QUANTIDADE TOTAL&quot;</find>
+      <find>diferencaData</find>
+      <find>&quot;anoSubtrair&quot;</find>
+      <find>SANTANA</find>
+      <find>SELECT * from filter.funct_filter_client(null, null, 'santana');</find>
+      <find>taxa</find>
+      <find>seguro</find>
+      <find>funct_update_penalidade</find>
+      <find>reg_</find>
+      <find>regMovimentation</find>
+      <find>next</find>
+      <find>get_im</find>
+      <find>TODO</find>
+      <find>end</find>
+      <find>end_payment</find>
+      <find>IDOPERATIONDEFINICION</find>
+      <find>VER_</find>
+      <find>VALOR</find>
+      <find>SIN-</find>
+      <find>reportBalancete</find>
+      <find>INT(4)</find>
+      <find>CREATE FUNCTION `rule_selection_has_enter_possiblit`(`idCandidatu` INT(11), `idVaga` INT(11))   RETURNS TINYINT(1) BEGIN          DECLARE totalConcorentes, totalVagasEsistentes, position INTEGER;          SELECT ca.candr_position into position         FROM candidature ca         WHERE ca.candr_vaga_id = idVaga               AND ca.candr_alu_id = idCandidatu;           SELECT v.vaga_numero into totalVagasEsistentes         from vaga v         where v.vaga_id = idVaga;          -- Carregar a quantidades de candidaturas com melhor posicao que do a cadidatura x         -- E que estao como a segunda opcao sem serem colocada         SELECT count(*) into totalConcorentes         from candidature ca         where  ca.candr_vaga_id = idVaga                and candr_option = 2                and ca.candr_position &lt; position                and ca.candr_state = 2         ;           -- Verificar se existe a probabilidade de que essa candidatura seja alocada         RETURN (position - totalConcorentes  &lt;= totalVagasEsistentes);      END</find>
+      <find>INT(11)</find>
+      <find>`</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>OUTGO</replace>
+      <replace>out</replace>
+      <replace>T_OUTGOPERATION</replace>
+      <replace>crop</replace>
+      <replace>INTEGER</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="/2027e7bb/ca843d00-bb07-4f9d-bae2-924cc1c6859c/schema/SEGUROS/object-type/ON_PROCESS/body/ON_PROCESS.sql" />
+        <option value="dbtable:/2027e7bb/ca843d00-bb07-4f9d-bae2-924cc1c6859c/SEGUROS.T_OPERATIONGROUP" />
+        <option value="/2027e7bb/ca843d00-bb07-4f9d-bae2-924cc1c6859c/schema/SEGUROS/routine/PRC_REG_MOVIMENTATION_PAYMENT.sql" />
+        <option value="/2027e7bb/ca843d00-bb07-4f9d-bae2-924cc1c6859c/schema/SEGUROS/routine/FUNC_REG_CONTAFUNCIONARIO.sql" />
+        <option value="/2027e7bb/ca843d00-bb07-4f9d-bae2-924cc1c6859c/schema/SEGUROS/routine/FUNC_ON_POS_REG_CONTRATO.sql" />
+        <option value="/2027e7bb/ca843d00-bb07-4f9d-bae2-924cc1c6859c/schema/SEGUROS/package/PACK_CONTA/body/PACK_CONTA.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/ca843d00-bb07-4f9d-bae2-924cc1c6859c/console.sql" />
+        <option value="dbroutine:/2027e7bb/05f641e6-fac3-4cac-94a0-4bd13a2d239e/SEGUROS.GET_ACCOUNT_ID" />
+        <option value="/2027e7bb/05f641e6-fac3-4cac-94a0-4bd13a2d239e/schema/SEGUROS/routine/FUNC_DESDOBRA_ACCOUNT.sql" />
+        <option value="/2027e7bb/05f641e6-fac3-4cac-94a0-4bd13a2d239e/schema/SEGUROS/routine/FUNC_REG_ACCOUNT.sql" />
+        <option value="/2027e7bb/05f641e6-fac3-4cac-94a0-4bd13a2d239e/schema/SEGUROS/routine/OUT.sql" />
+        <option value="/2027e7bb/05f641e6-fac3-4cac-94a0-4bd13a2d239e/schema/SEGUROS/routine/FUNC_REG_ACCOUNT_LOAD.sql" />
+        <option value="/2027e7bb/05f641e6-fac3-4cac-94a0-4bd13a2d239e/schema/SEGUROS/routine/GET_ACCOUNT_ID.sql" />
+        <option value="dbtable:/2027e7bb/05f641e6-fac3-4cac-94a0-4bd13a2d239e/SEGUROS.T_OPERATIONVALUE" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/05f641e6-fac3-4cac-94a0-4bd13a2d239e/console_1.sql" />
+        <option value="/2027e7bb/ca843d00-bb07-4f9d-bae2-924cc1c6859c/schema/SEGUROS/routine/FUNC_REG_AMORTIZCAO.sql" />
+        <option value="/2027e7bb/05f641e6-fac3-4cac-94a0-4bd13a2d239e/schema/SEGUROS/package/PACK_SINISTRO/body/PACK_SINISTRO.sql" />
+        <option value="/2027e7bb/05f641e6-fac3-4cac-94a0-4bd13a2d239e/schema/SEGUROS/routine/FUNC_REG_AMORTIZCAO.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/05f641e6-fac3-4cac-94a0-4bd13a2d239e/console.sql" />
+        <option value="/2027e7bb/05f641e6-fac3-4cac-94a0-4bd13a2d239e/schema/SEGUROS/routine/FUNC_REG_OPERATION_ACCOUNT.sql" />
+        <option value="/2027e7bb/3c39cde9-2251-4941-9fac-6478152184e1/schema/SEGUROS/package/PACK_TYPE.sql" />
+        <option value="/2027e7bb/3c39cde9-2251-4941-9fac-6478152184e1/schema/SEGUROS/package/PACK_REPORT2/body/PACK_REPORT2.sql" />
+        <option value="/2027e7bb/3c39cde9-2251-4941-9fac-6478152184e1/schema/SEGUROS/routine/FUNC_REG_OPERATION_ACCOUNT.sql" />
+        <option value="/2027e7bb/3c39cde9-2251-4941-9fac-6478152184e1/schema/SEGUROS/routine/FUNC_REG_ACCOUNTBANK.sql" />
+        <option value="/2027e7bb/3c39cde9-2251-4941-9fac-6478152184e1/schema/SEGUROS/view/VER_ACCOUNTBANK.sql" />
+        <option value="/2027e7bb/8236d387-e2bb-4e67-b572-3191765dbd12/schema/academico/routine/age.(date).sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/3c39cde9-2251-4941-9fac-6478152184e1/console.sql" />
+        <option value="$USER_HOME$/MEGAsync/academico/academico-data-2017-01-09.sql" />
+        <option value="/2027e7bb/8236d387-e2bb-4e67-b572-3191765dbd12/schema/academico/routine/test.().sql" />
+        <option value="dbtable:/2027e7bb/c7c30e69-d2d7-4c45-9ee6-d1537b173117/academico.academico.dia" />
+        <option value="/2027e7bb/c7c30e69-d2d7-4c45-9ee6-d1537b173117/database/academico/schema/academico/routine/prc_load_alunoby_document.(integer,varchar).sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/8236d387-e2bb-4e67-b572-3191765dbd12/console.sql" />
+        <option value="dbtable:/2027e7bb/c7c30e69-d2d7-4c45-9ee6-d1537b173117/academico.academico.matricula" />
+        <option value="/2027e7bb/c7c30e69-d2d7-4c45-9ee6-d1537b173117/database/academico/schema/academico/routine/prc_login.(varchar,varchar).sql" />
+        <option value="/2027e7bb/c7c30e69-d2d7-4c45-9ee6-d1537b173117/database/academico/schema/academico/routine/prc_reg_curso.(integer,varchar,varchar,integer,integer,integer,varchar,varchar).sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/c7c30e69-d2d7-4c45-9ee6-d1537b173117/console.sql" />
+        <option value="/2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/database/academico/schema/academico/routine/prc_login.(varchar,varchar).sql" />
+        <option value="/2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/database/academico/schema/academico/routine/prc_load_menuser.(integer,varchar).sql" />
+        <option value="/2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/database/academico/schema/academico/routine/funct_load_menuser.(integer,varchar).sql" />
+        <option value="dbtable:/2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/academico.academico.menu" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/9dc4f83c-a91b-4ee6-91fb-2b496f78b3fe/console.sql" />
+        <option value="/2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/database/academico/schema/academico/routine/_populate_studente.(varchar).sql" />
+        <option value="/2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/database/academico/schema/academico/routine/_populate_inscricao.(integer).sql" />
+        <option value="/2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/database/academico/schema/academico/routine/funct_reg_vaga.(numeric,numeric,numeric,date,date,numeric).sql" />
+        <option value="/2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/database/academico/schema/academico/routine/funct_load_aluno.(json).sql" />
+        <option value="/2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/database/academico/schema/academico/routine/_upload_alunos.(numeric,numeric,numeric).sql" />
+        <option value="/2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/database/academico/schema/academico/routine/_upload_alunos.(varchar,numeric,numeric,numeric).sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/42a977ed-938e-47b2-b5a0-203109fc2de6/console_1.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/42a977ed-938e-47b2-b5a0-203109fc2de6/console_2.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/42a977ed-938e-47b2-b5a0-203109fc2de6/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/e812c86e-2057-421c-8cf2-2a59d3f778fd/console.sql" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1605" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../nicon" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="PostgreSQL&#10;MySQL&#10;Oracle&#10;DDL Data Source&#10;Sqlite (Xerial)" />
+    <property name="settings.editor.selected.configurable" value="database.main2" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/SQL Dialects" value="OracleSqlPlus" />
+    <property name="database.data.extractors.current" value="SQL Inserts" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$APPLICATION_CONFIG_DIR$/consoles/db/4a2fbcf0-fdb0-43c5-a96f-548d7e6ea102" />
+    </key>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1605" height="1050" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29832572" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.641422" sideWeight="0.5034965" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19810127" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42923796" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5823466" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33977455" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.92895585" sideWeight="0.4965035" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3279743" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="dbSrc:///2027e7bb/c7c30e69-d2d7-4c45-9ee6-d1537b173117/database/academico/schema/rule/routine/selection_has_enter_possiblit.(integer,integer).sql" />
+    <entry file="dbDummy://dbtable:/2027e7bb/c7c30e69-d2d7-4c45-9ee6-d1537b173117/academico.academico.dia" />
+    <entry file="dbSrc:///2027e7bb/c7c30e69-d2d7-4c45-9ee6-d1537b173117/database/academico/schema/academico/routine/prc_anular_inscricao.(integer,integer,varchar).sql" />
+    <entry file="dbSrc:///2027e7bb/8236d387-e2bb-4e67-b572-3191765dbd12/schema/academico/routine/rule_selection_order.().sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="29" column="39" lean-forward="false" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/8236d387-e2bb-4e67-b572-3191765dbd12/schema/academico/routine/rule_selection_process_for_x.(int(11),int(11),int(11)).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/8236d387-e2bb-4e67-b572-3191765dbd12/schema/academico/routine/rule_selection_process_for_xy.(int(11),int(11),int(11),int(11),int(11)).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/8236d387-e2bb-4e67-b572-3191765dbd12/schema/academico/routine/rule_selection_select_candidature.(int(11),int(11)).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/8236d387-e2bb-4e67-b572-3191765dbd12/schema/academico/routine/rule_selection_suplente_candidature.(int(11),int(11)).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/8236d387-e2bb-4e67-b572-3191765dbd12/schema/academico/routine/selection_main.().sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/8236d387-e2bb-4e67-b572-3191765dbd12/schema/academico/routine/prc_load_residencia.(int(2)).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="5" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/8236d387-e2bb-4e67-b572-3191765dbd12/schema/academico/routine/prc_load_alunoBy_Document.(int(4),varchar(45)).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/8236d387-e2bb-4e67-b572-3191765dbd12/schema/academico/routine/age.(date).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/c7c30e69-d2d7-4c45-9ee6-d1537b173117/database/academico/schema/academico/routine/prc_load_alunoby_document.(integer,varchar).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/8236d387-e2bb-4e67-b572-3191765dbd12/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/c7c30e69-d2d7-4c45-9ee6-d1537b173117/database/academico/schema/academico/routine/prc_create_menu.(varchar,varchar,varchar,varchar,varchar,boolean).sql" />
+    <entry file="dbSrc:///2027e7bb/c7c30e69-d2d7-4c45-9ee6-d1537b173117/database/academico/schema/academico/routine/selection_main.().sql" />
+    <entry file="dbDummy://dbtable:/2027e7bb/c7c30e69-d2d7-4c45-9ee6-d1537b173117/academico.academico.matricula" />
+    <entry file="dbSrc:///2027e7bb/c7c30e69-d2d7-4c45-9ee6-d1537b173117/database/academico/schema/academico/routine/prc_login.(varchar,varchar).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/c7c30e69-d2d7-4c45-9ee6-d1537b173117/database/academico/schema/academico/routine/prc_reg_curso.(integer,varchar,varchar,integer,integer,integer,varchar,varchar).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/c7c30e69-d2d7-4c45-9ee6-d1537b173117/database/academico/schema/academico/routine/prc_reg_curso.(integer,varchar,varchar,integer,integer,integer,varchar,varchar).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/c7c30e69-d2d7-4c45-9ee6-d1537b173117/database/academico/schema/academico/routine/prc_reg_curso.(integer,varchar,varchar,integer,integer,integer,varchar,varchar).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/c7c30e69-d2d7-4c45-9ee6-d1537b173117/database/academico/schema/academico/view/ver_distrito.sql" />
+    <entry file="dbSrc:///2027e7bb/c7c30e69-d2d7-4c45-9ee6-d1537b173117/database/academico/schema/academico/routine/prc_reg_curso.(integer,varchar,varchar,integer,integer,integer,varchar,varchar).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/c7c30e69-d2d7-4c45-9ee6-d1537b173117/database/academico/schema/academico/routine/prc_reg_curso.(integer,varchar,varchar,integer,integer,integer,varchar,varchar).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/c7c30e69-d2d7-4c45-9ee6-d1537b173117/database/academico/schema/academico/routine/prc_reg_curso.(integer,varchar,varchar,integer,integer,integer,varchar,varchar).sql" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c7c30e69-d2d7-4c45-9ee6-d1537b173117/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/c7c30e69-d2d7-4c45-9ee6-d1537b173117.TABLE:academico.academico.matricula">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>c7c30e69-d2d7-4c45-9ee6-d1537b173117.TABLE:academico.academico.matricula</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="1427.0" y="428.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/database/academico/schema/academico/view/ver_distrito.sql">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/database/academico/schema/academico/routine/prc_login.(varchar,varchar).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/academico.academico.curso">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/database/academico/schema/academico/view/ver_all_user.sql">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/database/academico/schema/academico/routine/prc_load_menuser.(integer,varchar).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/database/academico/schema/academico/view/ver_menu_structure.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="30" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/database/academico/schema/academico/view/ver_menu_structure.sql">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/database/academico/schema/academico/view/ver_menu_structure.sql">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/database/academico/schema/academico/view/ver_menu_structure.sql">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/database/academico/schema/academico/routine/funct_create_menu.(varchar,varchar,varchar,varchar,varchar,boolean).sql" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/9dc4f83c-a91b-4ee6-91fb-2b496f78b3fe/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="14" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/database/academico/schema/academico/routine/_populate_inscricao.(integer).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/database/academico/schema/academico/routine/_upload_alunos.(numeric,numeric,numeric).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/42a977ed-938e-47b2-b5a0-203109fc2de6/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/database/academico/schema/academico/routine/_upload_alunos.(varchar,numeric,numeric,numeric).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/database/academico/schema/academico/routine/_populate_studente.(varchar).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="30" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="29" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/database/academico/schema/academico/routine/funct_load_aluno.(json).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/database/academico/schema/academico/routine/funct_reg_vaga.(numeric,numeric,numeric,date,date,numeric).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/academico.academico.menu">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///2027e7bb/42a977ed-938e-47b2-b5a0-203109fc2de6/database/academico/schema/academico/routine/funct_load_menuser.(integer,varchar).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="41" column="22" lean-forward="false" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/42a977ed-938e-47b2-b5a0-203109fc2de6/console_2.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/42a977ed-938e-47b2-b5a0-203109fc2de6/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/2027e7bb/e812c86e-2057-421c-8cf2-2a59d3f778fd/datamining.public.odor">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e812c86e-2057-421c-8cf2-2a59d3f778fd/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

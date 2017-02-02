@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/dchost/workspace/stable-version/GGVIARIO [2017-02-01]/GGViario/app/build/intermediates/exploded-aar/GGViario/dbutil/unspecified/jars/libs/xstream-android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9b3c5a4a5f585165ec8a04b08569631b3a25d274">
+        <dex dex="/home/dchost/workspace/stable-version/GGVIARIO [2017-02-01]/GGViario/app/build/intermediates/transforms/dex/debug/folders/1000/8/xstream-android_b3e5f5663d94a165068fcd7e8716a2a228115d2d/classes.dex" />
+    </item>
+
+</items>

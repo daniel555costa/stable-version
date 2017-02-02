@@ -1,0 +1,26 @@
+<resources>
+
+
+    <!-- Application theme. -->
+    <style name="AppThemeBase" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- COLOR STYLE THEME-->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+
+        <!-- You can also set colorControlNormal,  colorControlActivated, colorControlHighlight, jand colorSwitchThumbNormal.-->
+
+        <item name="colorControlNormal">@android:color/white</item>
+    </style>
+
+    <style name="AppThemeBaseLight" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- COLOR STYLE THEME-->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorControlNormal">@android:color/white</item>
+    </style>
+
+
+</resources>

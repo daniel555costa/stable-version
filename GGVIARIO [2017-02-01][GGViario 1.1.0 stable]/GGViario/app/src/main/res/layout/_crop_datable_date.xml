@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_marginBottom="1dp"
+    android:paddingTop="16dp"
+    android:paddingStart="16dp"
+    android:paddingEnd="16dp"
+    android:paddingBottom="16dp"
+    android:background="@android:color/white"
+    >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:id="@+id/area1">
+
+        <TextView
+            android:id="@+id/tv_crop_quantity"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:text="D"
+            android:gravity="center"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:background="@drawable/shap_oval_primary"
+            />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_toEndOf="@+id/area1"
+        android:paddingRight="16dp"
+        android:id="@+id/panelContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:id="@+id/tv_crop_date"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/textPrimary"
+            android:textSize="16sp"
+            android:text="@string/operation_date"
+            />
+
+        <TextView
+            android:id="@+id/tv_crop_quantity_percas"
+            android:text="@string/ovos_perdidos"
+            android:textColor="@color/textSecondary"
+            android:textSize="14sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+
+        <TextView
+            android:id="@+id/tv_qunatity_perca_gaclinha"
+            android:text="@string/galinhas_mortas"
+            android:textColor="@color/textSecondary"
+            android:textSize="14sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+
+    </LinearLayout>
+
+</RelativeLayout>

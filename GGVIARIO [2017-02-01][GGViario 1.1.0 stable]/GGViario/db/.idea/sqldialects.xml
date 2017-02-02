@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="dbSrc:///2027e7bb/98960258-4cf7-4b91-8331-089ac131814a/schema/SEGUROS/package/PACK_CONTA/body/PACK_CONTA.sql" dialect="OracleSqlPlus" />
+    <file url="dbSrc:///2027e7bb/98960258-4cf7-4b91-8331-089ac131814a/schema/SEGUROS/package/PACK_REGRAS/body/PACK_REGRAS.sql" dialect="OracleSqlPlus" />
+    <file url="dbSrc:///2027e7bb/98960258-4cf7-4b91-8331-089ac131814a/schema/SEGUROS/package/PACK_TYPE.sql" dialect="OracleSqlPlus" />
+    <file url="dbSrc:///2027e7bb/98960258-4cf7-4b91-8331-089ac131814a/schema/SEGUROS/routine/FUNC_ALTERAR_ESTADOCONTRATO.sql" dialect="OracleSqlPlus" />
+    <file url="dbSrc:///2027e7bb/98960258-4cf7-4b91-8331-089ac131814a/schema/SEGUROS/routine/FUNC_ON_POS_REG_CONTRATO.sql" dialect="OracleSqlPlus" />
+    <file url="dbSrc:///2027e7bb/98960258-4cf7-4b91-8331-089ac131814a/schema/SEGUROS/routine/FUNC_REG_ACCOUNT.sql" dialect="OracleSqlPlus" />
+    <file url="dbSrc:///2027e7bb/98960258-4cf7-4b91-8331-089ac131814a/schema/SEGUROS/routine/PRC_UPD_FUNCIONARIO.sql" dialect="OracleSqlPlus" />
+    <file url="dbSrc:///2027e7bb/98960258-4cf7-4b91-8331-089ac131814a/schema/SEGUROS/table/T_AMORTIZACAO/trigger/TG_POS_REG_AMORTIZACAO.sql" dialect="OracleSqlPlus" />
+    <file url="dbSrc:///2027e7bb/98960258-4cf7-4b91-8331-089ac131814a/schema/SEGUROS/view/OLD_VER_OBJECT_VALUES.sql" dialect="OracleSqlPlus" />
+    <file url="dbSrc:///2027e7bb/98960258-4cf7-4b91-8331-089ac131814a/schema/SEGUROS/view/VER_ACCOUNT.sql" dialect="OracleSqlPlus" />
+    <file url="dbSrc:///2027e7bb/98960258-4cf7-4b91-8331-089ac131814a/schema/SEGUROS/view/VER_AMORTIZACAO.sql" dialect="OracleSqlPlus" />
+    <file url="dbSrc:///2027e7bb/98960258-4cf7-4b91-8331-089ac131814a/schema/SEGUROS/view/VER_CHEQUE.sql" dialect="OracleSqlPlus" />
+  </component>
+</project>

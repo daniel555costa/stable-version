@@ -1,0 +1,17 @@
+create TYPE BODY ON_PROCESS AS
+
+  CONSTRUCTOR FUNCTION ON_PROCESS RETURN SELF AS RESULT AS
+  BEGIN
+    -- TODO: Implementation required for FUNCTION ON_PROCESS.ON_PROCESS
+    RETURN;
+  END ON_PROCESS;
+
+  MEMBER PROCEDURE process (row_items ROW_ITEM ) IS
+    items ROW_ITEM := row_items;
+    iff ITEM_FLOAT;
+  BEGIN
+
+    NULL;
+  END process;
+  
+END;

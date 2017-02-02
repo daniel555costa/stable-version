@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="ggviario.mobile.db" uuid="4a2fbcf0-fdb0-43c5-a96f-548d7e6ea102">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/../app/src/main/assets/ggviario.mobile.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="credial@localhost" uuid="9dc4f83c-a91b-4ee6-91fb-2b496f78b3fe">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/credial</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="@10.42.0127" uuid="3c39cde9-2251-4941-9fac-6478152184e1">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@10.42.0127:1521:XE</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="academico@localhost" uuid="42a977ed-938e-47b2-b5a0-203109fc2de6">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/academico</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="datamining@localhost" uuid="e812c86e-2057-421c-8cf2-2a59d3f778fd">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/datamining</jdbc-url>
+    </data-source>
+  </component>
+</project>

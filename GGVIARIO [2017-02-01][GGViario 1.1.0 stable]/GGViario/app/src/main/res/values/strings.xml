@@ -1,0 +1,104 @@
+<resources>
+
+    <string name="ms_prev">Atraz</string>
+    <string name="ms_next">Proximo</string>
+    <string name="ms_end">Finalizar</string>
+    <string name="ms_continue">Proximo</string>
+    <string name="ms_optional">Opcional</string>
+    <string name="ms_text_step">Passo $current de $total</string>
+
+
+    <string name="ggviario">GGViario</string>>
+    <string name="app_name">@string/ggviario</string>
+
+
+    <string name="name">Nome</string>
+    <string name="surname">Apelido</string>
+    <string name="product">Produto</string>
+
+    <string name="cansel">Cansela</string>
+    <string name="ok">OK</string>
+
+    <string name="contact">Contacto</string>
+    <string name="residence">Residencia</string>
+    <string name="quantity">Quantidade</string>
+    <string name="settings">Difinições</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="c">C</string>
+    <string name="_0">0</string>
+    <string name="point">.</string>
+    <string name="_0_0">0,0</string>
+
+    <!-- -
+        This is an ad unit ID for an interstitial test ad. Replace with your own interstitial ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="add_in_car">Adicionar ao carinho</string>
+    <string name="payment">Pagamento</string>
+    <string name="selected">Selecionados</string>
+    <string name="date_entrega">Data de entrega</string>
+    <string name="date_payment">Date de pagamento</string>
+    <string name="new_client">Novo cliente</string>
+    <string name="save">Salvar</string>
+    <string name="add">Adicionar</string>
+    <string name="remove">Remover</string>
+    <string name="products">Productos</string>
+    <string name="measure">Measure</string>
+    <string name="values">Values</string>
+    <string name="quantidade_de_ovos">Total de Ovos</string>
+    <string name="data_despesa">Data da despesa</string>
+    <string name="fornecedor">Fornecedor</string>
+    <string name="price">Preço</string>
+    <string name="febray">Fevereiro</string>
+    <string name="javier">Janeiro</string>
+    <string name="marc">Março</string>
+    <string name="april">Abril</string>
+    <string name="may">Maio</string>
+    <string name="june">Junho</string>
+    <string name="julhe">Julho</string>
+    <string name="agust">Agosto</string>
+    <string name="septeber">Setembro</string>
+    <string name="octobre">Outobro</string>
+    <string name="november">Novembro</string>
+    <string name="december">Dezembro</string>
+    <string name="done">Concluir</string>
+    <string name="crop">Colheita</string>
+    <string name="operation_date">Data da operacao</string>
+    <string name="quantidade_total_de_ovos">Total ovos: </string>
+    <string name="ovos_perdidos">Quebrados:</string>
+    <string name="galinhas_mortas">Galinhas mortas:</string>
+    <string name="today">Hoje</string>
+    <string name="ontem">Ontem</string>
+    <string name="dois_dias_atraz">Dois dias atras</string>
+    <string name="trez_dias_atras">Trêz dias atras</string>
+    <string name="quatro_dias_atraz">Quatro dias atraz</string>
+    <string name="cinco_dias_atraz">Cinco dias atraz</string>
+    <string name="lines">Linha1\nLinha2\nLinha3</string>
+    <string name="month_of">\'Mês de \' MMMM</string>
+    <string name="year_of_month_of">\'Ano\' yyyy \'\n\'MMMM</string>
+    <string name="this_month">Este Mês</string>
+    <string name="past_month">Mês passdo</string>
+    <string name="new_crop">Nova colheita</string>
+    <string name="select_sector">Selecione um sector</string>
+    <string name="comple_the_camp">Preenche pelo menos um campo</string>
+    <string name="quantity_percas_galinha">Percas galinhas</string>
+    <string name="quantity_percas">Quantidades quebrados</string>
+    <string name="kill">" Mortes\n"</string>
+    <string name="quebrados">" Quebrados \n"</string>
+    <string name="prvider">Provedor</string>
+    <string name="provider_name">Nome do Provedor</string>
+    <string name="provider_location">Localizacao do provedor</string>
+    <string name="provider_contact">Contacto do provedor</string>
+    <string name="detais">Detalhes</string>
+    <string name="sector">Sector</string>
+    <string name="daylly">Diario</string>
+
+</resources>

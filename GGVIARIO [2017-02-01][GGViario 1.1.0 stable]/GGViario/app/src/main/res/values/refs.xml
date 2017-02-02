@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="app_background">@color/app_background_white</drawable>
+    <drawable name="app_ic_launcher">@drawable/ic_launcher</drawable>
+</resources>
